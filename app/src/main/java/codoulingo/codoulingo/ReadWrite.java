@@ -47,7 +47,7 @@ public class ReadWrite {public static void write(String name, String data,Contex
                 }
 
                 inputStream.close();
-                ret = stringBuilder.toString();
+                ret = stringBuilder.toString();hlkhl
             }
         }
         catch (FileNotFoundException e) {

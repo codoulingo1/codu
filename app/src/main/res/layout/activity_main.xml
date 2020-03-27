@@ -30,5 +30,5 @@
         android:layout_height="wrap_content"
         android:text="בדיקה"
         tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="533dp" />
+        tools:layout_editor_absoluteY="524dp" />
 </android.support.constraint.ConstraintLayout>
